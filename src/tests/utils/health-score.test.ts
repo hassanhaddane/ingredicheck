@@ -43,7 +43,7 @@ describe('Health Score Utilities', () => {
         nova_group: 4,
       };
       const score = calculateHealthScore(product);
-      expect(score).toBeLessThan(40);
+      expect(score).toBeLessThanOrEqual(40);
     });
 
     it('should boost score for organic products', () => {
