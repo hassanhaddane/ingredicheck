@@ -31,6 +31,13 @@
 - [Contribution](#-contribution)
 - [License](#-license)
 
+## 📚 Documentation Complète
+
+- **[⚡ QUICKSTART.md](./QUICKSTART.md)** - Démarrage rapide en 5 minutes
+- **[🚀 DEPLOYMENT.md](./DEPLOYMENT.md)** - Guide de déploiement complet (Supabase + Vercel)
+- **[📊 PROJECT_SUMMARY.md](./PROJECT_SUMMARY.md)** - Résumé complet du projet
+- **[🤝 CONTRIBUTING.md](./CONTRIBUTING.md)** - Guide de contribution
+
 ---
 
 ## 🎯 À propos
